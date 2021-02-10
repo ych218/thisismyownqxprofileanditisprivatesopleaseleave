@@ -1,3 +1,6 @@
+### 參考大佬配置
+* [w37fhy](https://github.com/w37fhy/QuantumultX)
+
 ### 远程配置：
 * [Js.conf](https://raw.githubusercontent.com/ych218/thisismyownqxprofileanditisprivatesopleaseleave/main/Js.conf) 脚本远程订阅
 
