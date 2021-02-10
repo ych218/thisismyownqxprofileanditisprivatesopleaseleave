@@ -1,5 +1,3 @@
-# yishang111-thisismyownqxprofileanditisprivatesopleaseleave
-
 ### 远程配置：
 * [Js.conf](https://raw.githubusercontent.com/ych218/thisismyownqxprofileanditisprivatesopleaseleave/main/Js.conf) 脚本远程订阅
 
