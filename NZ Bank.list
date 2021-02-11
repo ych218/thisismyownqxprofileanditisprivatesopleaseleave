@@ -2,6 +2,7 @@
 USER-AGENT,anz*,Bank
 HOST-KEYWORD,anz,Bank
 HOST-SUFFIX,anz.co.nz,Bank
+HOST-SUFFIX,anz.demdex.net,Bank
 
 # > BNZ
 USER-AGENT,bnz*,Bank
