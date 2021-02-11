@@ -8,3 +8,10 @@ USER-AGENT,snkrs*,Sneaker
 HOST-KEYWORD,snkrs,Sneaker
 HOST-SUFFIX,snkrs.services.nike.com,Sneaker
 HOST-SUFFIX,nike.com,Sneaker
+
+# > Adidas App
+USER-AGENT,adidas*,Sneaker
+HOST-KEYWORD,adidas,Sneaker
+HOST-SUFFIX,adidasapp.3stripes.net,Sneaker
+HOST-SUFFIX,adidasapp.adidas.com,Sneaker
+HOST-SUFFIX,3stripes.net,Sneaker
