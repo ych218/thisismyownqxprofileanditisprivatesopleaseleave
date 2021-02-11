@@ -1,23 +1,36 @@
 # > ANZ
-USER-AGENT,anz*,ANZ
-HOST-KEYWORD,anz,ANZ
-HOST-SUFFIX,anz.co.nz,ANZ
-HOST-SUFFIX,anz.co.nz,ANZ
+USER-AGENT,anz*,Bank
+HOST-KEYWORD,anz,Bank
+HOST-SUFFIX,anz.co.nz,Bank
 
 # > BNZ
-USER-AGENT,bnz*,BNZ
-HOST-KEYWORD,bnz,BNZ
-HOST-SUFFIX,bnz.co.nz,BNZ
-HOST-SUFFIX,bnz.co.nz,BNZ
+USER-AGENT,bnz*,Bank
+HOST-KEYWORD,bnz,Bank
+HOST-SUFFIX,bnz.co.nz,Bank
 
 # > ASB
-USER-AGENT,asb*,ASB
-HOST-KEYWORD,asb,ASB
-HOST-SUFFIX,asb.co.nz,ASB
-HOST-SUFFIX,asb.co.nz,ASB
+USER-AGENT,asb*,Bank
+HOST-KEYWORD,asb,Bank
+HOST-SUFFIX,asb.co.nz,Bank
 
 # > KiwiBank
-USER-AGENT,kiwibank*,KIWIBANK
-HOST-KEYWORD,kiwibank,KIWIBANK
-HOST-SUFFIX,kiwibank.co.nz,KIWIBANK
-HOST-SUFFIX,kiwibank.co.nz,KIWIBANK
+USER-AGENT,kiwibank*,Bank
+HOST-KEYWORD,kiwibank,Bank
+HOST-SUFFIX,kiwibank.co.nz,Bank
+
+# > Studylink
+USER-AGENT,studylink*,Bank
+HOST-KEYWORD,studylink,Bank
+HOST-SUFFIX,studylink.govt.nz,Bank
+
+# > Realme
+USER-AGENT,realme*,Bank
+HOST-KEYWORD,realme,Bank
+HOST-SUFFIX,realme.govt.nz,Bank
+HOST-SUFFIX,logonrealmegovtnz.innocraft.cloud,Bank
+
+# > IRD
+USER-AGENT,ird*,Bank
+HOST-KEYWORD,ird,Bank
+HOST-SUFFIX,ird.govt.nz,Bank
+HOST-SUFFIX,logonrealmegovtnz.innocraft.cloud,Bank
