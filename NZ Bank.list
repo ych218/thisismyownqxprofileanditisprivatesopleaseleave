@@ -34,3 +34,6 @@ USER-AGENT,ird*,Bank
 HOST-KEYWORD,ird,Bank
 HOST-SUFFIX,ird.govt.nz,Bank
 HOST-SUFFIX,logonrealmegovtnz.innocraft.cloud,Bank
+HOST-SUFFIX,services.ird.govt.nz,Bank
+HOST-SUFFIX,e-services.ird.govt.nz,Bank
+HOST-SUFFIX,myir.ird.govt.nz,Bank
