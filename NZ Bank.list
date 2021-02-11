@@ -41,13 +41,3 @@ HOST-SUFFIX,logonrealmegovtnz.innocraft.cloud,Bank
 HOST-SUFFIX,services.ird.govt.nz,Bank
 HOST-SUFFIX,e-services.ird.govt.nz,Bank
 HOST-SUFFIX,myir.ird.govt.nz,Bank
-
-#USER-AGENT,*youtube*,YouTube
-#USER-AGENT,YouTube*,YouTube
-#HOST-KEYWORD,youtube,YouTube
-#HOST,yt3.ggpht.com,YouTube
-#HOST-SUFFIX,googlevideo.com,YouTube
-#HOST-SUFFIX,gvt2.com,YouTube
-#HOST-SUFFIX,youtu.be,YouTube
-#HOST,youtubei.googleapis.com,YouTube
-#HOST-SUFFIX,ytimg.com,YouTube
