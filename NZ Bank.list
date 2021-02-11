@@ -1,43 +1,43 @@
 # GEOIP 
-GEOIP,NZ,Bank
+GEOIP,NZ,NZ
 
 # > ANZ
-USER-AGENT,anz*,Bank
-HOST-KEYWORD,anz,Bank
-HOST-SUFFIX,anz.co.nz,Bank
-HOST-SUFFIX,anz.demdex.net,Bank
+USER-AGENT,anz*,NZ
+HOST-KEYWORD,anz,NZ
+HOST-SUFFIX,anz.co.nz,NZ
+HOST-SUFFIX,anz.demdex.net,NZ
 
 # > BNZ
-USER-AGENT,bnz*,Bank
-HOST-KEYWORD,bnz,Bank
-HOST-SUFFIX,bnz.co.nz,Bank
+USER-AGENT,bnz*,NZ
+HOST-KEYWORD,bnz,NZ
+HOST-SUFFIX,bnz.co.nz,NZ
 
 # > ASB
-USER-AGENT,asb*,Bank
-HOST-KEYWORD,asb,Bank
-HOST-SUFFIX,asb.co.nz,Bank
+USER-AGENT,asb*,NZ
+HOST-KEYWORD,asb,NZ
+HOST-SUFFIX,asb.co.nz,NZ
 
 # > KiwiBank
-USER-AGENT,kiwibank*,Bank
-HOST-KEYWORD,kiwibank,Bank
-HOST-SUFFIX,kiwibank.co.nz,Bank
+USER-AGENT,kiwibank*,NZ
+HOST-KEYWORD,kiwibank,NZ
+HOST-SUFFIX,kiwibank.co.nz,NZ
 
 # > Studylink
-USER-AGENT,studylink*,Bank
-HOST-KEYWORD,studylink,Bank
-HOST-SUFFIX,studylink.govt.nz,Bank
+USER-AGENT,studylink*,NZ
+HOST-KEYWORD,studylink,NZ
+HOST-SUFFIX,studylink.govt.nz,NZ
 
 # > Realme
-USER-AGENT,realme*,Bank
-HOST-KEYWORD,realme,Bank
-HOST-SUFFIX,realme.govt.nz,Bank
-HOST-SUFFIX,logonrealmegovtnz.innocraft.cloud,Bank
+USER-AGENT,realme*,NZ
+HOST-KEYWORD,realme,NZ
+HOST-SUFFIX,realme.govt.nz,NZ
+HOST-SUFFIX,logonrealmegovtnz.innocraft.cloud,NZ
 
 # > IRD
-USER-AGENT,ird*,Bank
-HOST-KEYWORD,ird,Bank
-HOST-SUFFIX,ird.govt.nz,Bank
-HOST-SUFFIX,logonrealmegovtnz.innocraft.cloud,Bank
-HOST-SUFFIX,services.ird.govt.nz,Bank
-HOST-SUFFIX,e-services.ird.govt.nz,Bank
-HOST-SUFFIX,myir.ird.govt.nz,Bank
+USER-AGENT,ird*,NZ
+HOST-KEYWORD,ird,NZ
+HOST-SUFFIX,ird.govt.nz,NZ
+HOST-SUFFIX,logonrealmegovtnz.innocraft.cloud,NZ
+HOST-SUFFIX,services.ird.govt.nz,NZ
+HOST-SUFFIX,e-services.ird.govt.nz,NZ
+HOST-SUFFIX,myir.ird.govt.nz,NZ
