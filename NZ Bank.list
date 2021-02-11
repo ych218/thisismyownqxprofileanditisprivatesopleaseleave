@@ -1,0 +1,23 @@
+# > ANZ
+USER-AGENT,anz*,ANZ
+HOST-KEYWORD,anz,ANZ
+HOST-SUFFIX,anz.co.nz,ANZ
+HOST-SUFFIX,anz.co.nz,ANZ
+
+# > BNZ
+USER-AGENT,bnz*,BNZ
+HOST-KEYWORD,bnz,BNZ
+HOST-SUFFIX,bnz.co.nz,BNZ
+HOST-SUFFIX,bnz.co.nz,BNZ
+
+# > ASB
+USER-AGENT,asb*,ASB
+HOST-KEYWORD,asb,ASB
+HOST-SUFFIX,asb.co.nz,ASB
+HOST-SUFFIX,asb.co.nz,ASB
+
+# > KiwiBank
+USER-AGENT,kiwibank*,KIWIBANK
+HOST-KEYWORD,kiwibank,KIWIBANK
+HOST-SUFFIX,kiwibank.co.nz,KIWIBANK
+HOST-SUFFIX,kiwibank.co.nz,KIWIBANK
