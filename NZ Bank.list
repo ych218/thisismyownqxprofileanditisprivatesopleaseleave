@@ -1,8 +1,5 @@
-# GEOIP 
-GEOIP,NZ,NZ
-
 # > ANZ
-USER-AGENT,anz*,NZ
+USER-AGENT,anz*,Bank
 HOST-KEYWORD,anz,NZ
 HOST-SUFFIX,anz.co.nz,NZ
 HOST-SUFFIX,anz.demdex.net,NZ
@@ -34,6 +31,15 @@ HOST-SUFFIX,realme.govt.nz,NZ
 HOST-SUFFIX,logonrealmegovtnz.innocraft.cloud,NZ
 
 # > IRD
+USER-AGENT,ird*,NZ
+HOST-KEYWORD,ird,NZ
+HOST-SUFFIX,ird.govt.nz,NZ
+HOST-SUFFIX,logonrealmegovtnz.innocraft.cloud,NZ
+HOST-SUFFIX,services.ird.govt.nz,NZ
+HOST-SUFFIX,e-services.ird.govt.nz,NZ
+HOST-SUFFIX,myir.ird.govt.nz,NZ
+
+# > MSD
 USER-AGENT,ird*,NZ
 HOST-KEYWORD,ird,NZ
 HOST-SUFFIX,ird.govt.nz,NZ
