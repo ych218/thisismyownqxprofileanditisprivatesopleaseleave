@@ -1,5 +1,5 @@
 # > SNKR
-USER-AGENT,snkrs*,Sneaker
-HOST-KEYWORD,snkrs,Sneaker
-HOST-SUFFIX,snkrs.services.nike.com,Sneaker
-HOST-SUFFIX,nike.com,Sneaker
+USER-AGENT,snkrs*,SNKRS
+HOST-KEYWORD,snkrs,SNKRS
+HOST-SUFFIX,snkrs.services.nike.com,SNKRS
+HOST-SUFFIX,nike.com,SNKRS
