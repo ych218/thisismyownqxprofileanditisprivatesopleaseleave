@@ -1,17 +1,11 @@
 # > Adidas NZ
-USER-AGENT,adidas*,Sneaker
-HOST-KEYWORD,adidas,Sneaker
-HOST-SUFFIX,adidas.co.nz,Sneaker
-
-# > SNKR
-USER-AGENT,snkrs*,Sneaker
-HOST-KEYWORD,snkrs,Sneaker
-HOST-SUFFIX,snkrs.services.nike.com,Sneaker
-HOST-SUFFIX,nike.com,Sneaker
+USER-AGENT,adidas*,Adidas
+HOST-KEYWORD,adidas,Adidas
+HOST-SUFFIX,adidas.co.nz,Adidas
 
 # > Adidas App
-USER-AGENT,adidas*,Sneaker
-HOST-KEYWORD,adidas,Sneaker
-HOST-SUFFIX,adidasapp.3stripes.net,Sneaker
-HOST-SUFFIX,adidasapp.adidas.com,Sneaker
-HOST-SUFFIX,3stripes.net,Sneaker
+USER-AGENT,adidas*,Adidas
+HOST-KEYWORD,adidas,Adidas
+HOST-SUFFIX,adidasapp.3stripes.net,Adidas
+HOST-SUFFIX,adidasapp.adidas.com,Adidas
+HOST-SUFFIX,3stripes.net,Adidas
